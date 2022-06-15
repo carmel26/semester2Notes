@@ -1,0 +1,3 @@
+searching a model for batteries monitoring depending on speed, mileage, and how they consume
+predict how many batteries we will buy next year, and prevent drivers who are more consumer 
+for warn him

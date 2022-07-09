@@ -1,0 +1,2 @@
+select an student and redirect with his id on the addcontribution page ... on the button line change of view into 
+add a contributions

@@ -1,0 +1,28 @@
+a spectrum is all radio waves, spectrum is frequency. infrared are used in differents ways,
+micro waves 
+
+ofdm issue is power consomptation
+ofdm advantage is easy to design
+
+there is too many call drop in 2G than to 4G.
+in 4G there is soft handover, and hard handover
+
+With omn direction antena are 360 degrees and
+ direction antena's are 120degrees this approach helps to efficeint reusability of frequence
+
+Multple access :
+ *Frequence division multple access: using differents speech frequence when we are talking in a room for to differenciate speakers
+ *time division multiple access : waiting each person to talk in each time one by one in a room
+ *code division multiple access : using differents languages in talking in kirundi,kinyagwanda,...
+
+simplex: oneway communication 
+half duplex: two way communication but one talk and other listen
+full duplex: two way communication and every one talk ata the same time each other
+
+2G is the bleuprint of all the next technologies (it is a base off all technologies)
+
+handover happens when you shift place between two differnts bts(because the frenquence u used
+ in one place is not available to the new place)
+
+3dB one is 2 times bigger than other
+6dB one is 4 times bigger than other 

@@ -1,0 +1,12 @@
+Grid Slide(Name of the Aplication, Company or Team Group,Image Grid Format)(pg1)
+Story(p2)
+Statistics(pg3)
+Solution( ML+Mobile Application pg4)
+Project Outcomes(pg5)
+Competitors(Show Outstanding features pg6)
+Budget and Project Sustainability (pg7)
+Project Team(pg8)
+Summary of Company Profile(pg9)
+
+Dragons Den
+

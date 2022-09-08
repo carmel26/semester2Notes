@@ -1,0 +1,21 @@
+Challenge 1: Open source can curb developer incentives
+Proposed solution: Make your software closed source in the beginning 
+
+Challenge 2: Information asymmetry in proprietary licenses
+Proposed solution: A virtue of free/open source software licensing is the offer of a default contract requiring no review by the platform sponsor
+
+Challenge 3: Code forking and incompatibility
+This practice, known as forking, happens when developers
+create incompatible versions from a common code base.
+Proposed solution: Require developers to license their enhancements back to the platform sponsor in order that improvements can be folded back into the common code base at the appropriate time.
+
+Challenge 4: Quality, Competition and value chain hold-up
+
+Challenge 5: Free riding by 3rd party developers
+In this case, a third party developer might wish to invest in an enhancement but also to dishonor the principle of releasing source code upon expiration of the proprietary period.
+Proposed solution: The sponsor's task is to offer developers sufficient value in affiliating with its platform that developers choose to create a derivative work in preference to incurring the cost of developing an independent platform. This implies that the offer of developer profits collected during the proprietary period must be greater than the developer could earn independently, accounting for (i) the cost of independent platform development and (ii) the lower cost of reusing common code.
+
+Challenge 6: Platform sponsor rent seeking
+Issue: If the platform sponsor maintains a key complement as
+inaccessible proprietary code, then that sponsor can potentially appropriate the value of future enhancements via price hikes.
+

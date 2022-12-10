@@ -1,0 +1,7 @@
+-select an student and redirect with his id on the addcontribution page ... on the button line change of view into 
+add a contributions
+*edit contribution by passing on a list off contribution and add one select one in a table
+    *view off contribution list with a table(an activivity of list contrib)
+    *edit activity like master student activity
+* add star depending on progress off student
+   like 1 star first year, 2 second year, 3second internership, 4 second end interner ship, 5 second end final project, 6 second and fish master program
